@@ -22,3 +22,10 @@ I will state an example for a computer vision and NLP task. For a computer visio
 
 
 ![Attention](https://user-images.githubusercontent.com/20738202/193803495-249ca140-da1d-4b3a-abe6-a3f68573cc9c.png)
+
+
+# Summary:
+
+•	Used GloVe vectors for word embedding and the Teacher Forcing method for training the LSTM network using Keras efficiently. 
+
+•	Implemented an encoder-decoder system to build a Seq2Seq model and an Attention model to convert English text messages into Spanish with an accuracy score of 75%.
