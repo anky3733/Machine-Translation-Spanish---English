@@ -19,3 +19,6 @@ The encoder and decoder are two big individual components that work together to 
 While working with sequence to sequence models, it sometimes becomes significant to distinguish between the essential components in a particular task.
 
 I will state an example for a computer vision and NLP task. For a computer vision task, let us consider an image of a dog walking on the ground. The sequence to sequence model can identify the following fairly easily. But with the help of the attention mechanism, we can add more weightage to the essential component in the image, which is the dog. Similarly, for an NLP task, we need to focus on particular words more than others to understand the context better. Attention is useful even in these scenarios.
+
+
+![Attention](https://user-images.githubusercontent.com/20738202/193803495-249ca140-da1d-4b3a-abe6-a3f68573cc9c.png)
