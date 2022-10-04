@@ -10,6 +10,11 @@ The Sequence To Sequence models usually consists of an encoder and decoder model
 
 The encoder and decoder are two big individual components that work together to produce desirable results while performing computations. The encoder and decoder models together form the sequence-to-sequence models. The process of taking in the input sequences is done by the encoder, and the decoder has the function of producing the respective target sequences.
 
+
+## Encoder Decoder Architecture
+![ED](https://user-images.githubusercontent.com/20738202/193803243-a4282a35-ad83-42fe-ac45-4a107686bd4f.png)
+
+
 # Significance of Attention
 While working with sequence to sequence models, it sometimes becomes significant to distinguish between the essential components in a particular task.
 
