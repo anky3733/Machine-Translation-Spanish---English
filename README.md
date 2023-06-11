@@ -29,3 +29,25 @@ I will state an example for a computer vision and NLP task. For a computer visio
 •	Used GloVe vectors for word embedding and the Teacher Forcing method for training the LSTM network using Keras efficiently. 
 
 •	Implemented an encoder-decoder system to build a Seq2Seq model and an Attention model to convert English text messages into Spanish with an accuracy score of 75%.
+
+
+
+### conda env create -f environment.yml
+
+Activate the environment :
+
+For Windows:
+
+### conda activate my_environment
+
+For macOS and Linux:
+
+### source activate my_environment
+
+Then run the notebooks available in the directory
+
+• Install the packages directly using 
+
+### pip install requirements.txt
+
+Then run the notebooks available in the directory
